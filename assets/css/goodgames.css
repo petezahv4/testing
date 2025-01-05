@@ -7832,7 +7832,7 @@ div.nk-error {
 .nk-image-slider .nk-image-slider-item {
     position: absolute;
     left: -150%;
-    width: 100%;
+    width: 75%;
     overflow: hidden;
 }
 
